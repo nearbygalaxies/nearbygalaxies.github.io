@@ -5,3 +5,5 @@
 [Karin Sandstrom](http://karinsandstrom.github.io) -- Assistant Professor
 
 [I-Da Chiang](https://jiang696.github.io/) -- Ph. D. student
+
+Petia YMJ -- PhD student
