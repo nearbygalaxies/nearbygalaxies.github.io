@@ -6,4 +6,4 @@
 
 [I-Da Chiang](https://jiang696.github.io/) -- Ph. D. student
 
-Petia YMJ -- PhD student
+[Petia YMJ](http://casswww.ucsd.edu/index.php/grads:Pyanchulova) -- PhD student
