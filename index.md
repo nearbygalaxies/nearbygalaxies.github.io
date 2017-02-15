@@ -8,6 +8,8 @@ This is the homepage for Karin Sandstrom's nearby galaxies research group in CAS
 
 [Group Members](people)
 
+[Research](research/index.md)
+
 Link = [Markdown Example](markdown-example)
 
 Link = [another-page](another-page)
