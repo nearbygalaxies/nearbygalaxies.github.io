@@ -6,6 +6,6 @@
 
 [I-Da Chiang](https://jiang696.github.io/) -- Ph. D. student
 
-[Chang-Chun Samantha Chen](http://cass.ucsd.edu/index.php/grads:Cchen/) -- Ph. D. student
+[Chang-Chun Samantha Chen](http://cass.ucsd.edu/index.php/grads:Cchen) -- Ph. D. student
 
 Petia YMJ -- PhD student
