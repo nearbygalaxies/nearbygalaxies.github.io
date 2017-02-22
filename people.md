@@ -4,7 +4,7 @@
 
 [Karin Sandstrom](http://karinsandstrom.github.io) -- Assistant Professor
 
-[I-Da Chiang](https://jiang696.github.io/) -- Ph. D. student
+[I-Da Chiang](https://idchiang.github.io/) -- PhD student
 
 [Chang-Chun Samantha Chen](http://cass.ucsd.edu/index.php/grads:Cchen) -- Ph. D. student
 
