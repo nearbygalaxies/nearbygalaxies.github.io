@@ -10,6 +10,4 @@ This is the homepage for Karin Sandstrom's nearby galaxies research group in CAS
 
 [Research](research/index.md)
 
-Link = [Markdown Example](markdown-example)
-
-Link = [another-page](another-page)
+Looking for Pauline Barmby's group at Western University?  You can find them [here](https://nearby-galaxies.github.io/).
